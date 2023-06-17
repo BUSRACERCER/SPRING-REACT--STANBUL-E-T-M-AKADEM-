@@ -1,9 +1,4 @@
 # SPRING-REACT-İSTANBUL EĞİTİM AKADEMİ
-# Spring-Product-Management-App
-<p> 
-Getting Started with Java
-</p>
-
 # Getting Started with Java
 - How to Get Java
 - A First Java Program
@@ -21,7 +16,7 @@ Getting Started with Java
 - Debugging a Java Application
 - Importing Existing Java Code
 
-  # Datatypes and Variables
+ # Datatypes and Variables
 - Objectives
 - Primitive Datatypes
 - Declarations
@@ -36,7 +31,7 @@ Getting Started with Java
 - More Arrays
 - Non-Primitive Datatypes
 - The Dot Operator
-   # Operations and Expressions
+# Operations and Expressions
 - Assignment Operator
 - Arithmetic Operators
 - Relational Operators
@@ -47,7 +42,7 @@ Getting Started with Java
 - Operator Precedence
 - Implicit Type Conversions
 - The Cast Operator
-  # Control Flow
+# Control Flow
 - Statements
 - Conditional (if) Statements
 - Adding an else if
@@ -58,13 +53,13 @@ Getting Started with Java
 - Enhanced for Loop
 - The continue Statement
 - The break Statement
-  # Methods
+# Methods
 - Methods
 - Calling Methods
 - Defining Methods
 - Method Parameters
 - Scope
-   # Object Oriented Programming
+# Object Oriented Programming
 - Introduction to Object-Oriented Programming
 - Classes and Objects
 - Fields and Methods
@@ -74,7 +69,7 @@ Getting Started with Java
 - Polymorphism
 - Demonstrating Polymorphism with Arrays
 - Best Practices
- # Object and Classes
+# Object and Classes
 - Objectives
 - Opening the Examples in Eclipse
 - Defining a Class
@@ -89,7 +84,7 @@ Getting Started with Java
 - Generating Constructors with Eclipse
 - Access Modifiers
 - Encapsulation
-  # Object and Classes
+# Object and Classes
 - The Collections Framework
 - The Set Interface
 - Set Implementation Classes
@@ -100,7 +95,7 @@ Getting Started with Java
 - Queue Implementation Classes
 - The Map Interface
 - Map Implementation Classes
-  # Collection Classes
+# Collection Classes
 - Integrating Spring with Java EE Web Apps - ContextLoaderListener and WebApplicationContext
 - Spring Web MVC Overview, Capabilities, Architecture (Front Controller, MVC Pattern)
 - Spring MVC Basics the DispatcherServlet,
@@ -108,7 +103,7 @@ Getting Started with Java
 - Controllers, using @Controller, @RequestMapping (Handler Methods)
 - Controller Details using @RequestMapping, @RequestParam and @PathVariable
 - Model Data, @ModelAttribute, Model/ModelAndView Classe- s
-   # Spring MVC Primer
+# Spring MVC Primer
 - Integrating Spring with Java EE Web Apps - ContextLoaderListener and WebApplicationContext
 - Spring Web MVC Overview, Capabilities, Architecture (Front Controller, MVC Pattern)
 - Spring MVC Basics the DispatcherServlet,
@@ -116,7 +111,7 @@ Getting Started with Java
 - Controllers, using @Controller, @RequestMapping (Handler Methods)
 - Controller Details using @RequestMapping, @RequestParam and @PathVariable
 - Model Data, @ModelAttribute, Model/ModelAndView Classes
-  # Spring Boot
+# Spring Boot
 - Application class
 - @SpringBootApplication
 - Build as a Runnable jar
@@ -124,7 +119,7 @@ Getting Started with Java
 - Externalize your configuration using application.properties or YAML files
 - Context Root and Management ports
 - Logging
- # Building Web Applications in Spring Boot
+# Building Web Applications in Spring Boot
 - Spring MVC Controllers
 - Using ModelAttributes
 - @RequestMapping and @RequestParam
@@ -134,7 +129,7 @@ Getting Started with Java
 - Executing Sql scripts
 - Using a production database
 - JPA Data and JPA Repositories
-  # RESTful Web Services
+# RESTful Web Services
 - REST Overview (Characteristics/Capabilities, URI Templates, REST vs SOAP
 - REST and Spring MVC
 - Spring support for REST
@@ -148,7 +143,7 @@ Getting Started with Java
 - JAXB / @XmlRootElement
 - Content Negotiation
 - Client Requirements and Spring's RestTemplate
-  # Securing an Application with Spring Boot and Spring Security
+# Securing an Application with Spring Boot and Spring Security
 - Spring Security Overview using the DelegatingFilterChainProxy and FilterChainProxy
 - Using Spring Web Authentication
 - The key Classes of HttpSecurity, AuthenticationProvider, UserDetailsService, UserDetails,AuthenticationManager, Authentication and GrantedAuthorities
@@ -159,7 +154,7 @@ Getting Started with Java
 - Creating your own custom Authorization Voter and AccessControlManager
 - Using HTTPS
 - Securing a Restful service via a customized UsernamePasswordAuthenticationFilter
-   # React JS
+# React JS
 - The Core of React
 - Properties of React
 - React Component Design
@@ -192,29 +187,3 @@ Getting Started with Java
 - Deploying
 
 
-# Ugulama Özellikleri:
-- [x] Kullanıcı giriş
-- [x] Kullanıcı Kayıt
-- [x] Ürün Listeleme
-- [x] Ürün Ekleme
-- [x] Ürün Silme
-- [x] Ürün Güncelleme
-
-## Uygulama Note:
-```
-Bu uygulama hakkında genel bir not ve açıklama sunar.
-```
-
-
-# Project Life Cycle
-<img src="https://github.com/hakanozer/spring-mvc-note-app/blob/main/project_images/diyagram_1.png" style="max-width:100%;">
-
-# Project Display Image
-<p>
-<a href="https://github.com/hakanozer/spring-mvc-note-app/blob/main/project_images/1.png" target="_blank">
-<img src="https://github.com/hakanozer/spring-mvc-note-app/blob/main/project_images/1.png" width="250" style="max-width:100%;"></a>
-<a href="https://github.com/hakanozer/spring-mvc-note-app/blob/main/project_images/2.png" target="_blank">
-<img src="https://github.com/hakanozer/spring-mvc-note-app/blob/main/project_images/2.png" width="250" style="max-width:100%;"></a>
-<a href="https://github.com/hakanozer/spring-mvc-note-app/blob/main/project_images/3.png" target="_blank">
-<img src="https://github.com/hakanozer/spring-mvc-note-app/blob/main/project_images/3.png" width="250" style="max-width:100%;"></a>
-</p>
